@@ -43,7 +43,9 @@ My research interest includes **Reinforcement Learning** and **Internet of Thing
 - Qihao Yuan, **Junshen Chen**, Zezhong Zhang, and Shiyao Zhang. “[Low-Latency Resource Allocation Scheme in OTFS-NOMA IoV Platoon System](https://doi.org/10.1109/ICCCWorkshops62562.2024.10693801).” *IEEE/CIC International Conference on Communications in China Workshops (ICCC Workshops)*, pp. 604–609, 2024.
 - **Junshen Chen**, Qihao Yuan, Shiyao Zhang, and Chang Liu. “[Data-Driven OTFS Channel Estimation Based on Gated Recurrent Convolutional Autoencoder](https://doi.org/10.1109/ISCIT57293.2023.10376091).” *22nd International Symposium on Communications and Information Technologies (ISCIT)*, pp. 7–12, 2023.
 
-# 📖 Education {#-educations}
+<span id="-educations"></span>
+
+# 📖 Education
 
 - MPhil student, The Chinese University of Hong Kong, Shenzhen, China (present).
 - *2021.09 - 2025.07*, *Bachelor of Electronic Information Engineering* in Shenzhen University (SZU), China.
