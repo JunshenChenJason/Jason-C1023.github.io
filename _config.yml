@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Junshen chen / Personal Homepage"
-description              : "Senior undergraduate student @SZU"
-repository               : "Jason-C1023/Jason-C1023.github.io"
+title                    : "Junshen Chen / Personal Homepage"
+description              : "MPhil student at The Chinese University of Hong Kong, Shenzhen"
+repository               : "JunshenChenJason/Jason-C1023.github.io"
 google_scholar_stats_use_cdn : True
 
 # google analytics
@@ -23,21 +23,21 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Junshen Chen"
   avatar           : "images/image.png"
-  bio              : "Shenzhen University"
+  bio              : "The Chinese University of Hong Kong, Shenzhen"
   location         : "Shenzhen, China"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=NVEeB5wAAAAJ&hl=zh-CN"
   email            : "junshenchenjason@gmail.com" 
   researchgate     : #"https://www.researchgate.net/profile/Jian-Tang-53"
-  uri              : "https://Jason-C1023.github.io/"
+  uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Jason-C1023"
+  github           : "JunshenChenJason/Jason-C1023.github.io"
   google_plus      :
   keybase          :
   instagram        :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : #"https://orcid.org/0009-0005-6185-5138"
+  orcid            : "https://orcid.org/0009-0006-1713-5114"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
